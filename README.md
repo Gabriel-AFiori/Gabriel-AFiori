@@ -11,3 +11,5 @@
   <img align="center" alt="css" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="react" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
 </div>
+
+![Snake animation](https://github.com/Gabriel-Afiori/Gabriel-Afiori/blob/output/github-contribution-grid-snake.svg)
