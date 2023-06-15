@@ -1,7 +1,7 @@
 ### Olá eu sou o Gabriel ! 👋
 
 <div>
-  <a href="https://https://github.com/PauloZJunior">
+  <a href="https://github.com/Gabriel-AFiori">
   <img height="170em" src="https://github-readme-stats-paulozjunior.vercel.app/api?username=PauloZJunior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZJunior&layout=compact&langs_count=16&theme=midnight-purple&locale=pt-br"/>
 
