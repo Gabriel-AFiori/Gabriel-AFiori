@@ -63,6 +63,6 @@ No curso da Trybe, concluí o módulo de Fundamentos. Confira meu certificado: <
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gabriel-AFiori&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Gabriel-AFiori&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 <br>
