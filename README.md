@@ -12,7 +12,7 @@
 
 <p>
 
-Sou estudante da Trybe, no curso de Desenvolvimento Full Stack, e já concluí 4 módulos de Hard Skills: Fundamentos, Front-End, Back-End e Aceleração em C#.<br>
+Sou estudante da Trybe, no curso de Desenvolvimento Full Stack, e já concluí 4 módulos de Hard Skills: Fundamentos, Front-End, Back-End e Eletiva em C#.<br>
 Possuo Soft Skills como autoliderança, gerenciamento de tempo, criatividade, colaboração e muitas outras.
 <br>
 <br>
@@ -24,7 +24,10 @@ Sou uma pessoa que adora aprender, que está buscando mais conhecimento e novos 
 
 ### 🧐 Mais sobre mim:
 <br>
-No curso da Trybe, concluí o módulo de Fundamentos. Confira meu certificado: <a href="https://pdf.credential.net/t6ds5lil_1686786802726.pdf" title="Certificates">Fundamentos</a> 📝
+No curso da Trybe, concluí o módulo de Fundamentos. Confira meu certificado: <a href="https://pdf.credential.net/t6ds5lil_1686786802726.pdf" title="Certificates">Fundamentos</a><br>
+Concluí o módulo de Front-End. Confira meu certificado: <a href="https://pdf.credential.net/0wog17lj_1728584083358.pdf" title="Certificates">Front-End</a><br>
+Concluí o módulo de Back-End. Confira meu certificado: <a href="https://pdf.credential.net/bj6sgtdz_1728584038585.pdf" title="Certificates">Back-End</a><br>
+Concluí o módulo de Eletiva em C#. Confira meu certificado: <a href="https://pdf.credential.net/azgfccgl_1728583952707.pdf" title="Certificates">Eletiva em C#</a>📝
 <br>
 <br>
 - 🛠 &nbsp; Ainda não me graduei na Trybe, mas já estou em busca de uma nova experiência para aprender e contribuir! ✨
