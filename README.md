@@ -12,7 +12,7 @@
 
 <p>
 
-Sou um estudante da trybe, no curso de Desenvolvimento Full Stack, tendo concluído 1 módulo de HardSkills (Fundamentos) e finalizando o módulo de Front-End. Conto com SoftSkills como Auto liderança, Gerenciamento de Tempo, Criatividade, Colaboração e muitas outras.
+Sou estudante da Trybe, no curso de Desenvolvimento Full Stack, e já concluí 4 módulos de Hard Skills: Fundamentos, Front-End, Back-End e Aceleração em C#. Possuo Soft Skills como autoliderança, gerenciamento de tempo, criatividade, colaboração e muitas outras.
 <br>
 <br>
 Sou uma pessoa que adora aprender, que está buscando mais conhecimento e novos desafios no mundo da tecnologia.
