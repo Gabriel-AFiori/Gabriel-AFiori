@@ -12,7 +12,7 @@
 
 <p>
 
-Sou estudante da Trybe, no curso de Desenvolvimento Full Stack, e já concluí 4 módulos de Hard Skills: Fundamentos, Front-End, Back-End e Aceleração em C#.
+Sou estudante da Trybe, no curso de Desenvolvimento Full Stack, e já concluí 4 módulos de Hard Skills: Fundamentos, Front-End, Back-End e Aceleração em C#.<br>
 Possuo Soft Skills como autoliderança, gerenciamento de tempo, criatividade, colaboração e muitas outras.
 <br>
 <br>
